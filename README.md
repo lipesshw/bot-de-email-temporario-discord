@@ -24,7 +24,7 @@ npm install
 
 **Como configurar?**
 Na `config.json` você terá que fazer 3 alterações:
-`
+
 
     "token": "o token do seu bot"
     
@@ -32,7 +32,7 @@ Na `config.json` você terá que fazer 3 alterações:
     
     "categoria": "id categoria que vai gerar os canais com email"
     
-`
+
 
 Depois digite o comando:
 ```
