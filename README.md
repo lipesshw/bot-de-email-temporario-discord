@@ -4,10 +4,10 @@ Um bot capaz de gerar emails temporários e receber emails via chat do discord. 
 
 # Demostração:
 
-[Clique aqui para ver a demonstração da aplicação.](https://www.youtube.com/watch?v=p9_IOVXzbIk)
+[Clique aqui para ver a demonstração da aplicação.](https://www.youtube.com/watch?v=3RvCnMjLgtM)
 
 
-ATENÇÃO: Caso queira comprar, basta me contatar no privado do discord: lipesshw#0007
+ATENÇÃO: Caso queira comprar a source TOTALMENTE EDITÁVEL, basta me contatar no privado do discord: lipesshw#0007
 
 
 
