@@ -2,7 +2,7 @@
 Um bot capaz de gerar emails temporários e receber emails via chat do discord. (Video de demonstração no readme!)
 
 
-# Demostração:
+# Demonstração:
 
 [Clique aqui para ver a demonstração da aplicação.](https://www.youtube.com/watch?v=3RvCnMjLgtM)
 
